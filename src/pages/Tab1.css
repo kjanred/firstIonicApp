@@ -1,5 +1,6 @@
 img {
     width: 20%;
     height: auto;
-    border: 1px solid black;
+    box-shadow: 3px 3px 15px gray;
+
 }

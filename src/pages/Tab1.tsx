@@ -39,7 +39,7 @@ const Tab1: React.FC = () => {
                     <IonCardSubtitle>{item.email}</IonCardSubtitle>
               </IonCardHeader>
 
-              <IonCardContent>Description</IonCardContent>
+              <IonCardContent></IonCardContent>
               </IonCard>
             </IonLabel>
             </IonItem>
